@@ -48,9 +48,5 @@
     "tailwindcss": "^4.1.4",
     "tailwinds": "^0.0.0"
   },
-    "homepage": "https://joshua-menefee.github.io/logistic-model-frontend",
-    "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
-    }
+    "homepage": "https://joshua-menefee.github.io/logistic-model-frontend"
 }
