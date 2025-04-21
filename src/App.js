@@ -34,7 +34,7 @@ function App() {
 
     try {
       // Make API call with the specific instance's parameters
-      const response = await axios.get('http://localhost:8080/simulate', {
+      const response = await axios.get('https://logistic-model-backend.onrender.com/simulate', {
         params: simulationInstance.params,
       });
 
