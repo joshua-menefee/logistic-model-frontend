@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/logistic-model-frontend/static/css/main.2852403b.css",
+    "main.css": "/logistic-model-frontend/static/css/main.8802398d.css",
     "main.js": "/logistic-model-frontend/static/js/main.5b412c97.js",
     "static/js/453.7ee84b82.chunk.js": "/logistic-model-frontend/static/js/453.7ee84b82.chunk.js",
     "index.html": "/logistic-model-frontend/index.html",
-    "main.2852403b.css.map": "/logistic-model-frontend/static/css/main.2852403b.css.map",
+    "main.8802398d.css.map": "/logistic-model-frontend/static/css/main.8802398d.css.map",
     "main.5b412c97.js.map": "/logistic-model-frontend/static/js/main.5b412c97.js.map",
     "453.7ee84b82.chunk.js.map": "/logistic-model-frontend/static/js/453.7ee84b82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2852403b.css",
+    "static/css/main.8802398d.css",
     "static/js/main.5b412c97.js"
   ]
 }
